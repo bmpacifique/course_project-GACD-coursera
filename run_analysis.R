@@ -2,7 +2,7 @@
 # AUTHOR: BISIMWA MUGISHO Pacifique  
 # OVERVIEW  
 # Using data collected from the accelerometers and gyroscope from the Samsung Galaxy S 
-# smartphone, the code below work with the data and make a clean data set, outputting the
+# smartphone, the R codes below work with the data and make a clean data set, outputting the
 # resulting tidy data to a file named "tidydata.txt". See README.md for details. 
 #==============================================================================   
 
